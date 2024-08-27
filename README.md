@@ -24,7 +24,7 @@ What you need:
 * Know how to use jupyter notebooks 
 <sup>(Its much easier to test and decipher JSON in a notebook than a straight .py file)</sup>
 
-
+[View the Code](https://github.com/CameronCSS/Azure_Map_API/blob/master/Script1.ipynb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
