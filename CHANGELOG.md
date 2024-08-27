@@ -1,15 +1,15 @@
 # Changelog
 
-## v1.0.0
+## v1.0.1
 
 ### Added or Changed
-- Added this changelog :)
-- Fixed typos in both templates
-- Back to top links
-- Added more "Built With" frameworks/libraries
-- Changed table of contents to start collapsed
-- Added checkboxes for major features on roadmap
+- Added base code
+- Added more schools
+- added more info to each school
+- updated logic that gives us random location points
+
 
 ### Removed
 
-- Some packages/libraries from acknowledgements I no longer use
+- Some extra code that wasnt actually adding anything
+- removed bunch of columns with information we werent asked for
